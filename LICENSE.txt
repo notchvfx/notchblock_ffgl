@@ -1,0 +1,268 @@
+Notch Block FFGL Plugin End-User License Agreement ("EULA")
+
+Date of Last Revision: 21 August 2024
+
+IMPORTANT NOTICE:
+
+PLEASE READ THIS EULA CAREFULLY BEFORE USING OUR SOFTWARE, AS IT
+EXPLAINS HOW YOU ARE LICENSED TO USE THE SOFTWARE. IF YOU HAVE QUERIES
+CONCERNING THIS EULA YOU MAY CONTACT US HERE: info@notch.one.
+
+PLEASE NOTE CLAUSES 5 (TERMINATION AND CONSEQUENCES OF TERMINATION), 7
+(INDMENITY/COMPENSATION) AND 8 (LIMITATION OF LIABILITY) AS THESE
+CONTAIN IMPORTANT PROVISIONS AROUND LIMITATIONS AND EXCLUSIONS OF
+LIABILITY ARISING IN CONNECTION WITH YOUR USE OF THE SOFTWARE AS WELL AS
+CLAUSE 11 (CHANGES TO THIS EULA).
+
+THE DOWNLOAD, INSTALLATION AND USE OF THE SOFTWARE, AND THE USE OF OUR
+WEBSITE ARE ALSO SUBJECT TO OUR PRIVACY AND COOKIE POLICY 
+https://www.notch.one/legal/privacy/.
+
+THE SOFTWARE IS DESIGNED TO WORK WITH OTHER SOFTWARE AND HARDWARE WHICH
+WILL BE SUBJECT TO OTHER TERMS OR CONDITIONS AND THIS EULA IS ONLY FOR
+THE SOFTWARE.
+
+1.  INTRODUCTION
+
+    1.  This EULA governs the use of the Software that we make available
+        on an "as is" basis at
+        https://github.com/notchvfx/notchblock_ffgl (the "Software").
+
+    2.  The Software is produced by and the property of 10bit FX
+        Limited, a company registered in England and Wales under company
+        number 09727850 and with our registered office at 86-90 Paul
+        Street, London, EC2A 4NE, UK ("10Bit"). 10Bit is referred to as
+        "us", "we", and "our" in this EULA.
+
+    3.  THE TERMS AND CONDITIONS BELOW SET OUT THE AGREEMENT BETWEEN YOU
+        ("you") AND US FOR THE DOWNLOAD, INSTALLATION AND USE OF THE
+        SOFTWARE SO PLEASE READ THIS CAREFULLY.
+
+    4.  BY DOWNLOADING, INSTALLING OR USING THE SOFTWARE YOU ARE
+        AGREEING TO BE BOUND BY AND BECOME A PARTY TO THIS EULA. IF YOU
+        DO NOT AGREE TO ALL OF THE TERMS OF THIS EULA YOU SHOULD NOT,
+        DOWNLOAD OR USE THE SOFTWARE. IF YOU ARE DOWNLOADING, INSTALLING
+        OR OTHERWISE USING THE SOFTWARE ON BEHALF OF ANY OTHER PARTY
+        WHERE EXPRESSLY PERMITTED BY THIS EULA YOU CONFIRM THAT YOU HAVE
+        AUTHORITY TO BIND THAT OTHER PARTY AND THAT YOU SHALL BE
+        RESPONSIBLE FOR ENSURING THAT SUCH PARTY COMPLIES WITH THIS
+        EULA. IF YOU PROVIDE THE SOFTWARE TO ANY THIRD PARTY AS
+        EXPRESSLY PERMITTED BY THIS EULA YOU AGREE THAT YOU SHALL FIRST
+        PROVIDE THEM WITH A COPY OF THIS EULA AND PROCURE THAT THEY
+        COMPLY WITH ITS TERMS.
+
+2.  YOUR USE OF THE SOFTWARE
+
+    1.  By downloading and installing the Software, you confirm that you
+        are either over 18 years of age, or if you are under 18 years
+        old, that you are 13 years of age and older and you have
+        obtained your parent or guardian's consent to download, install
+        and use the Software subject to this EULA which they have read.
+
+3.  SYSTEM REQUIREMENTS
+
+    1.  The performance of our Software is significantly dependent on
+        the hardware and technical environment that the Software
+        operates in. As such, your system should be in good working
+        order and meet the required operating specifications.
+
+4.  LICENCE
+
+    1.  We grant you a personal, non-sublicensable (should you wish to
+        sublicense the Software to your clients please contact us to
+        request our prior written permission), non-transferrable, and
+        non-exclusive licence to use the Software for the purposes
+        described in clause 4.2.
+
+    2.  In relation to scope of use:
+
+        -   "use of the Software" means loading the Software into
+            temporary memory or permanent storage on a single computer,
+            provided that installation on a network server for
+            distribution to other computers is not "use" if the Software
+            is licensed under this licence for use on each computer to
+            which the Software is distributed.
+
+        -   except as expressly stated in this clause 4, you have no
+            right (and shall not permit any third party) to copy, adapt,
+            reverse engineer, decompile, disassemble, modify, adapt or
+            make error corrections to the Software in whole or in part
+            except to the extent that any reduction of the Software to
+            human readable form (whether by reverse engineering,
+            decompilation or disassembly) is necessary for the purposes
+            of integrating the operation of the Software with the
+            operation of other software or systems used by you.
+
+        -   You acknowledge that we may modify, suspend or discontinue
+            the whole or any part of the Software or otherwise make any
+            changes we consider desirable to the Software, without
+            further notice to you.
+
+5.  TERMINATION AND CONSEQUENCES OF TERMINATION
+
+    1.  We may discontinue the Software and/or otherwise terminate this
+        EULA in our sole discretion at any time without any notice to
+        you. You may terminate this EULA by stopping your access and use
+        of the Software, and uninstalling/deleting all instances of the
+        Software downloaded on all of your devices.
+
+    2.  Termination or expiry of this EULA shall not affect any rights,
+        remedies, obligations or liabilities of the parties that have
+        accrued up to the date of termination or expiry, including the
+        right to claim damages in respect of any breach of the agreement
+        which existed at or before the date of termination or expiry.
+
+    3.  On termination or expiry for any reason:
+
+        -   all rights granted to you under this EULA shall cease;
+
+        -   you shall cease all activities authorised by this EULA; and
+
+        -   you shall immediately destroy or return to us all copies of
+            the Software then in your possession, custody or control.
+
+6.  INTELLECTUAL PROPERTY
+
+    1.  "Intellectual Property Rights" means all intellectual property
+        rights, including (without limitation) patents, supplementary
+        protection certificates, petty patents, utility models, Trade
+        Marks, database rights, rights in designs, copyrights, moral
+        rights and topography rights, whether or not any of these rights
+        are registered, and including applications and the right to
+        apply for registration of any such rights, and all rights and
+        forms of protection of a similar nature or having equivalent or
+        similar effect to any of these which may subsist anywhere in the
+        world, in each case for their full term, and together with any
+        renewals or extensions.
+
+    2.  You acknowledge that all Intellectual Property Rights in the
+        Software belong and shall belong to us or the relevant
+        third-party owners (as the case may be), and you shall have no
+        rights in or to the Software other than the right to use the
+        Software in accordance with the terms of this EULA.
+
+    3.  If any claim or action is brought against you alleging that the
+        possession or use of the Software (or any part thereof) in
+        accordance with the terms of this EULA infringes the
+        Intellectual Property Rights of a third party (Claim), or if, in
+        our reasonable opinion a Claim is likely to be made against you,
+        we may at our sole option and expense:
+
+        -   procure for you the right to continue to use the Software
+            (or any part thereof) in accordance with the terms of this
+            EULA;
+
+        -   modify the Software so that it ceases to be infringing;
+
+        -   replace the Software with non-infringing software; or
+
+        -   terminate this EULA immediately by notice in writing to you
+            and refund any of the fees paid by you to us as at the date
+            of termination (less a reasonable sum in respect of your use
+            of the Software to the date of termination) on return of the
+            Software and all copies thereof,
+
+    4.  This clause 6 constitutes your exclusive remedy and our only
+        liability in respect of Claims and, for the avoidance of doubt,
+        is subject to clause 8.
+
+7.  INDEMNITY/COMPENSATION
+
+1.  You hereby agree to indemnify (compensate) us and keep us
+    indemnified from and against all claims, damages, expenses, costs
+    and liabilities (whether direct or indirect and including legal
+    fees) relating to or arising from your use of the Software or
+    arising from any breach or suspected breach of this EULA by or
+    directed by you or your violation of any applicable law, regulation
+    or code of conduct.
+
+2.  You further agree that we would suffer damage if the terms of this
+    EULA were not specifically enforced. Therefore, you agree that we
+    shall be entitled, without bond, other security, or proof of
+    damages, to appropriate equitable remedy with respect to any breach
+    of this EULA, in addition to such other remedies as we might
+    otherwise have available under applicable laws.
+
+8.  OUR LIMITATIONS OF LIABILITY
+
+1.  The SOFTWARE is provided 'AS IS' and on an 'AS AVAILABLE' basis
+    without any representation, endorsement or warranty of any kind,
+    including but not limited to implied warranties of satisfactory
+    quality, fitness for a particular purpose, non-infringement,
+    compatibility, security and/or accuracy.
+
+2.  We do not guarantee that the SOFTWARE will be (i) free of errors,
+    viruses or bugs or other defects; or (ii) that the SOFTWARE or any
+    information displayed or distributed through the SOFTWARE or in the
+    Documentation will be accurate or complete; or (iii) that any
+    defects in the SOFTWARE will be corrected; OR (IV) THAT OPERATION OF
+    THE SOFTWARE WILL BE UNINTERRUPTED.
+
+3.  You acknowledge that USE OF THE SOFTWARE OR reliance on any such
+    information shall be at your sole risk.
+
+4.  All warranties, representations, conditions and all other terms of
+    any kind whatsoever implied by statute or common law are excluded
+    from this EULA to the fullest extent permitted by law.
+
+5.  NOTHING IN THIS EULA SHALL EXCLUDE OR LIMIT OUR LIABILITY FOR
+    FRAUDULENT MISREPRESENTATIONS OR FOR DEATH OR PERSONAL INJURY
+    RESULTING FROM OUR NEGLIGENCE OR THAT OF OUR EMPLOYEES OR AGENTS
+
+6.  TO THE FULLEST EXTENT PERMISSABLE BY LAW, INCLUDING IN YOUR LOCAL
+    JURISDICTION, WE EXCLUDE ALL OTHER LIABILITY FOR ANY LOSS OR DAMAGE,
+    INCLUDING ANY LIABILTY OR DAMAGE TO ANY DEVICE OR COMPUTER SYSTEM.
+
+7.  TO THE MAXIMUM EXTENT PERMITTED BY LAW, OUR AGGREGATE LIABILITY IN
+    RESPECT OF ANY CLAIMS MADE IN CONNECTION WITH OR ARISING OUT OF THE
+    USE OF THE SOFTWARE (WHETHER IN CONTRACT, TORT (INCLUDING
+    NEGLIGENCE), BREACH OF STATUTORY DUTY, OR OTHERWISE) FOR ALL DIRECT
+    AND INDIRECT LOSSES (INCLUDING WITHOUT LIMITATION, LIQUIDATED
+    DAMAGES, SPECIAL, CONSEQUENTIAL AND INCIDENTAL LOSSES, INCLUDING
+    LOSS OF REVENUE, PROFITS AND/OR GOODWILL AS WELL AS ANY BUSINESS
+    INTERUPTION) WILL BE LIMITED TO THE AMOUNT PAID BY YOU TO US IN
+    RESPECT OF YOUR USE OF THE SOFTWARE IN THE 12 MONTHS IMMEDIATELY
+    PRIOR TO THE DATE UPON WHICH THE CAUSE OF ACTION AROSE OR IF NOT
+    MONIES WERE PAID BY YOU THEN THE MAXIMUM LIABILITY SHALL BE £5 (FIVE
+    POUNDS).
+
+8.  NO WAIVER
+
+    1.  No waiver by us of any failure by you to comply with or perform
+        a provision of this EULA shall constitute a waiver of any
+        preceding or succeeding failure.
+
+9.  ASSIGNMENT
+
+    1.  This EULA is personal to you. You may not assign, sub-license
+        (unless agreed with us in accordance with clause 4.1), transfer
+        or dispose of your rights or obligations under this agreement.
+
+10. CHANGES TO THIS EULA
+
+    1.  We may change this EULA for any legal, regulatory or security
+        reasons, or for any other reason we decide. Please check back on
+        our website from time to time in case of any updated to this
+        EULA. If you continue to use the Software following any such
+        change then the new EULA will apply and you will be deemed to
+        accept such changes.
+
+    2.  If you do not agree to ANY changes to the EULA, you must
+        immediately stop accessing and using the Software and
+        uninstall/delete all instances of the Software downloaded on all
+        of your devices.
+
+11. SEVERANCE
+
+    1.  If any provisions of this EULA are held to be invalid or
+        unenforceable, the remaining provisions will remain in full
+        force and effect.
+
+12. GOVERNING LAW AND JURISDICTION
+
+    1.  Subject to your local consumer laws, in the event of any dispute
+        between you and us regarding this EULA and/or your use of the
+        Software, the laws of England and Wales will apply. You agree
+        that in the event that we are unable to settle any dispute with
+        you informally, then any court or arbitration proceedings shall
+        be held in England only.
