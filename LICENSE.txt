@@ -9,7 +9,7 @@ EXPLAINS HOW YOU ARE LICENSED TO USE THE SOFTWARE. IF YOU HAVE QUERIES
 CONCERNING THIS EULA YOU MAY CONTACT US HERE: info@notch.one.
 
 PLEASE NOTE CLAUSES 5 (TERMINATION AND CONSEQUENCES OF TERMINATION), 7
-(INDMENITY/COMPENSATION) AND 8 (LIMITATION OF LIABILITY) AS THESE
+(INDEMNITY/COMPENSATION) AND 8 (LIMITATION OF LIABILITY) AS THESE
 CONTAIN IMPORTANT PROVISIONS AROUND LIMITATIONS AND EXCLUSIONS OF
 LIABILITY ARISING IN CONNECTION WITH YOUR USE OF THE SOFTWARE AS WELL AS
 CLAUSE 11 (CHANGES TO THIS EULA).
@@ -242,7 +242,7 @@ THE SOFTWARE.
 
     1.  We may change this EULA for any legal, regulatory or security
         reasons, or for any other reason we decide. Please check back on
-        our website from time to time in case of any updated to this
+        our website from time to time in case of any updates to this
         EULA. If you continue to use the Software following any such
         change then the new EULA will apply and you will be deemed to
         accept such changes.
