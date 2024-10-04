@@ -1,6 +1,10 @@
 # Notch Block FFGL Plugin
 
-A plugin that allows the use of [Notch Blocks](https://www.notch.one) in applications that support FFGL plugins; e.g. Resolume. (Windows OS only)
+A plugin that allows the use of [Notch Blocks](https://www.notch.one) in applications that support FFGL plugins; e.g. Resolume. (Windows OS only).
+To use:
+* Install the plugin in your host's FFGL effects directory.
+* Instanciate the plugin in your host and load a Notch Block from the plugin's properties. 
+* A valid Notch Playback license and Codemeter runtimes are required to load Notch Blocks. 
 
 ## IMPORTANT
 
@@ -14,10 +18,10 @@ Download using the 'Releases' section on the right side of the [Github site](htt
 
 ## Limitations
 
-FFGL has some limitations as a plugin format which in turn unavoidably limit the capabilities of this plugin.
+FFGL has some limitations as a plugin format which in turn limit the capabilities of this plugin beyond our control.
 
 * Loading a Block will pause output until loading completes. Blocks are shared between instances of the plugin, so if one instance uses a Block it gets cached for all instances using that Block.
-* When a project is opened containing instances of the plugin, the instances are only initialised - and therefore the Notch Block loaded - only when it gets displayed for the first time. You'll need to go through every instance of the plugin and display it when you first load the project to ensure you don't get pauses during playout.
+* When a project is opened containing instances of the plugin, the instances are only initialised - and therefore the Notch Block loaded - only when it gets displayed for the first time. You'll need to go through every instance of the plugin and display it when you first load the project to ensure you don't get pauses during playout. This is due to the lifecycle of an FFGL plugin in the host, so we can't change it. 
 * Notch Block rendering and update rate is controlled by the host application, and performance is ultimately determined and limited by the host application. Some hosts are more efficient than others. 
 
 The FFGL SDK does not allow dynamically changing properties (even on load). Therefore, there are some limitations on how Notch's exposed parameters can be handled.
