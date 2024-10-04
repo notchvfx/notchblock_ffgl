@@ -1,10 +1,11 @@
 # Notch Block FFGL Plugin
 
-A plugin that allows the use of [Notch Blocks](https://www.notch.one) in applications that support FFGL plugins; e.g. Resolume. (Windows OS only).
+An experimental FFGL plugin that allows the use of [Notch Blocks](https://www.notch.one) in applications that support FFGL plugins; e.g. Resolume. (Windows OS only).
 To use:
 * Install the plugin in your host's FFGL effects directory.
 * Instanciate the plugin in your host and load a Notch Block from the plugin's properties. 
 * A valid Notch Playback license and Codemeter runtimes are required to load Notch Blocks. 
+* Notch is 64 bit only - so the FFGL plugin is also 64 bit only, and will only work in 64 bit host applications that support 64 bit FFGL plugins.
 
 ## IMPORTANT
 
@@ -38,3 +39,5 @@ The normal requirements of a Notch Block apply:
 * [Codemeter Runtimes](https://www.wibu.com/support/user/user-software.html) installed
 * Windows 10 >= 1607
 * DirectX 11.3 supported GPU
+* Blocks from Notch 1.0 and 0.9.23 and earlier versions are all supported.
+* Live network editing from Notch Builder is supported if the Block enables it.
