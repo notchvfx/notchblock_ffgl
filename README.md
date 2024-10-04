@@ -30,6 +30,7 @@ The FFGL SDK does not allow dynamically changing properties (even on load). Ther
 * Hard limit of 32x exposed properties per type. (i.e. 32x floats, 32x ints, 32x strings)
 * All float values are shown as 0-1 and then scaled to the range specified when exposing your parameter in Notch Builder.
 * Exposed property groups are not supported.
+* Multiple video input parameters are supported, but only if the host application supports this via FFGL. Most only support a single input.
 
 ## Requirements
 
