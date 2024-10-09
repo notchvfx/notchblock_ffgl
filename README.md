@@ -4,7 +4,7 @@ An experimental FFGL plugin that allows the use of [Notch Blocks](https://www.no
 To use:
 * Install the plugin in your host's FFGL effects directory.
 * Instanciate the plugin in your host and load a Notch Block from the plugin's properties. 
-* A valid Notch Playback license and Codemeter runtimes are required to load Notch Blocks. 
+* As with all Block playback integrations, a valid Notch Playback license (or Builder Pro license - which includes Playback) and Codemeter runtimes are required to load Notch Blocks. 
 * Notch is 64 bit only - so the FFGL plugin is also 64 bit only, and will only work in 64 bit host applications that support 64 bit FFGL plugins.
 
 ## IMPORTANT
